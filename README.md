@@ -1,6 +1,6 @@
 ## **Project Name: QuoraQuest: Unraveling the Threads of Similarity**
 
-![QuoraQuest](https://www.example.com/images/quora_quest.jpg)
+![QuoraQuest](img.png)
 
 ## Introduction
 
